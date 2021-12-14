@@ -8,9 +8,9 @@ This offers
 * HTTP Basic Auth
 * Let's encrypt integration
 * Assets compression and caching
-* PHP-FPM configuration for 5.6 7.0 7.1 7.2 7.3 (on demand)
+* PHP-FPM configuration for `5.6`, `7.0`, `7.1`, `7.2`, `7.3`, `7.4`, `8.0`, `8.1` (on demand)
 * Munin (monitoring) support
-* Three levels of SSL/TLS security to choose from
+* Three levels of SSL/TLS security to choose from (using different ciphers and minimum tls versions)
 
 It has three sample domains configuration files 
 * a public website (allow indexing, etc.)
